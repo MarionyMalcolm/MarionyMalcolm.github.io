@@ -84,11 +84,14 @@ header .navbar-default .navbar-nav {
 }
 header .navbar-default .navbar-nav li a {
   color: #333333;
-  padding: 10px 26px;
+  padding: 10px 26px;slider
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
+}
+#logo{
+	height:50px;
 }
 /*---------------------------------------------
 					Index Start
@@ -97,14 +100,14 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/pltcover.svg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  background-position: 70%;
+  padding: 250px 0 280px 0;
   position: relative;
 }
-#slider:before {
+/*#slider:before {
   content: "";
   position: absolute;
   left: 0;
@@ -115,7 +118,7 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 100%;
   background: linear-gradient(to left, #8b86a3, #322e40);
   opacity: 0.8;
-}
+}*/
 #slider .block {
   color: #E3E3E4;
 }
