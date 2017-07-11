@@ -18,9 +18,9 @@ title: Pa Todo Lao
 subtitle: "Un viaje de Chile a Mexico"
 url: "http://marionymalcolm.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "patodolao"
-cover: "patodolao/img/ptlcover.svg"
-logo: "patodolao/img/ptllogo.svg"
+baseurl: ""
+cover: "/patodolao/img/ptlcover.svg"
+logo: "/patodolao/img/ptllogo.svg"
 
 # Build settings
 markdown: kramdown
