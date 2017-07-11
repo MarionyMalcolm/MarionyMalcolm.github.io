@@ -141,7 +141,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	wrapper Start
 --*/
 #intro {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -158,9 +158,13 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .section-title {
   margin-bottom: 0px;
+  text-align: center;
 }
 #intro .section-title p {
   padding-top: 20px;
+}
+#intro .section-map{	
+    text-align: center;
 }
 /*--
 	service Start
@@ -188,6 +192,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 14px;
   line-height: 1.8;
 }
+
 /*--
 	call-to-action Start
 --*/
