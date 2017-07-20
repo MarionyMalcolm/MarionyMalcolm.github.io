@@ -13,6 +13,12 @@
 /*--
 	Common Css
 --*/
+.post{
+	 padding: 0 10% 0 10%;
+}
+.container{
+	 width: inherit;
+}
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -28,6 +34,7 @@ h6 {
 h2 {
   font-size: 30px;
   font-weight: 400;
+  color: #339966;
 }
 h3 {
   font-size: 28px;
@@ -65,7 +72,7 @@ a:active {
 	Header Start
 --*/
 header {
-  background: #fff;
+  background: #132440;
   padding: 20px 0;
 }
 header .navbar {
@@ -83,12 +90,16 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: #98b8d8;
   padding: 10px 26px;slider
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
-  color: #000;
+  color: #fff;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #FFF;
+    background-color: transparent;
 }
 #logo{
 	height:50px;
