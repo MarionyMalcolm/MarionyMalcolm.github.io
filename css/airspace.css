@@ -19,6 +19,89 @@
 .container{
 	 width: inherit;
 }
+/* Portrait */
+@media screen and (orientation:portrait) {
+   iframe{
+	   width:80%;
+	   height:480px;
+   }
+}
+/* Landscape */
+@media screen and (orientation:landscape) {
+   iframe{
+	   width:50%;
+	   height:480px;
+   }
+}
+#ultimopost{
+	display: table;
+	margin: 0 auto;
+	width: 80%;
+}
+
+#ultimopost-marion{
+	display: table;
+	margin: 0 auto;
+	float:left;
+	width: 20%;
+	text-align: right;
+	/* height: 100px; */
+}
+#ultimopost-marion-img{
+    padding: 0;
+    width: auto;
+    height: 400px;
+}
+#ultimopost-post{
+	display: table;
+	margin: 0 auto;
+	float:left;
+	width: 60%;
+	height: 400px;
+	border-style: inset;
+}
+#ultimopost-post-img{
+    padding: 0;
+    width: auto;
+    height: 450px;
+}
+#ultimopost-malcolm{
+	display: table;
+	margin: 0 auto;
+	float:left;
+	width: 20%;
+	text-align: left;
+	/* height: 100px; */
+}
+#ultimopost-malcolm-img{
+    padding: 0;
+    width: auto;
+    height: 400px;
+}
+
+
+#ultimopost-post  .overly {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.9);
+  opacity: 0;
+  -webkit-transition: .3s all;
+  -o-transition: .3s all;
+  transition: .3s all;
+  text-align: center;
+}
+
+#ultimopost-post li:hover .overly {
+  opacity: 1;
+}
+
+#ultimopost-post li:hover {
+
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
