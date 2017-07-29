@@ -35,59 +35,90 @@ permalink: /
   </div>
 </section>
 
+
+
 <!-- Wrapper Start -->
 <section id="intro">
   <div class="container">
     <div class="row">
       <div class="">
-        <div class="block">
+        <div class="block1">
 			<div class="section-title">
-				<h2>Ultimo post</h2>
+				<h2>Ultimos posts</h2>
 				<p></p>
 			</div>
 			<div id="ultimopost-outer" style="width:100%">
 				<div id="ultimopost">
 					<div id="ultimopost-marion">
-						<img id="ultimopost-marion-img" src="/img/designs/marionblog.svg" alt="Drawing" style="padding: 0; width: auto;"/>
+						<img id="ultimopost-marion-img" src="/img/designs/marionblog.svg" alt="Drawing"/>
 					</div>
-					<div id="ultimopost-post">
-					<section id="portfolio-work">
-						<div class="container">
-							<div class="row">
-							  <div class="col-md-12">
-								<div class="block">
-								  <div class="portfolio-contant">
-									<ul id="portfolio-contant-active">
-										<li class="mix Francia">
-										  <a href="/2017/07/13/project.html">
-											<img src="{{ site.baseurl }}/img/designs/project/bench.svg" alt="">
-											<div class="overly">
-											  <div class="position-center">
-												<h2>Nuestro Proyecto</h2>
-												<p>Cual es el proyecto</p>
-
-											  </div>
-											</div>
-										  </a>
-									  </li>
-									</ul>
-								  </div>
-								</div>
-							  </div>
-							</div>
-						</div>
-					</section>
-
-
-
-
-
-
 
 						
+					<div id="ultimopost-post">
+					<div class="w3-content w3-display-container" style="height: 400px;">
+						<div class="w3-display-container mySlides" style="display: block; height: 400px;">
+							<a href="/2017/07/23/training.html">
+								<div class="image-wrapper" style="height: 400px;">
+								
+									<img class="lastpostimg" src="/img/designs/project/bench.svg" style="padding: 0;height: 400px;">
+								
+									<div class="middle">
+										<div class="text">Nuestro Proyecto</div>
+									</div>
+								</div>
+								<div class="w3-display-bottomleft w3-large w3-container w3-padding-16 w3-black">
+									Nuestro Proyecto
+								</div>
+							</a>
+						</div>
+						<div class="w3-display-container mySlides" style="display: block; height: 400px;">
+							<a href="/2017/07/23/training.html">
+							<div class="image-wrapper" style="height: 400px;">
+								
+									<img class="lastpostimg" src="/img/designs/lifting.svg"  style="padding: 0;height: 400px;">
+								
+								<div class="middle">
+									<div class="text">Entrenando</div>
+								</div>
+							</div>
+							<div class="w3-display-topright w3-large w3-container w3-padding-16 w3-black">
+								Entrenando
+							</div>
+							</a>
+						</div>						
+					<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">❮</button> 
+					<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">❯</button>
 					</div>
+					<script>
+						  var slideIndex = 1;
+						  showDivs(slideIndex);
+
+						  function plusDivs(n) {
+							  showDivs(slideIndex += n);
+						  }
+
+						  function showDivs(n) {
+							  var i;
+							  var x = document.getElementsByClassName("mySlides");
+							  if (n > x.length) {
+								  slideIndex = 1
+							  }
+							  if (n < 1) {
+								  slideIndex = x.length
+							  }
+							  for (i = 0; i < x.length; i++) {
+								  x[i].style.display = "none";
+							  }
+							  x[slideIndex - 1].style.display = "block";
+						  }
+					</script>
+				</div>				
+						
+						
+					
+					
 					<div id="ultimopost-malcolm">
-						<img id="ultimopost-malcolm-img" src="/img/designs/malcolmblog.svg" alt="Drawing" style="padding: 0; width: auto;"/>
+						<img id="ultimopost-malcolm-img" src="/img/designs/malcolmblog.svg" alt="Drawing"/>
 					</div>				
 				</div>	
 			</div>
@@ -97,172 +128,3 @@ permalink: /
   </div>
 </section>
 
-<!-- Service Start 
-<section id="service">
-  <div class="container">
-    <div class="row">
-      <div class="section-title">
-        <h2>Our Services</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-      </div>
-    </div>
-    <div class="row ">
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="icon ion-coffee"></i>
-          <h4>Branding</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-compass"></i>
-          <h4>Web Design</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-image"></i>
-          <h4>App Design</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-bug"></i>
-          <h4>Start Up</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-headphone"></i>
-          <h4>Logo Design</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-leaf"></i>
-          <h4>Development</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-planet"></i>
-          <h4>Brand Identity</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-earth"></i>
-          <h4>Brand Identity</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>-->
-<!-- Call to action Start -->
-<!--section id="call-to-action">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h2>We design delightful digital experiences.</h2>
-          <p>Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.</p>
-          <a class="btn btn-default btn-call-to-action" href="#" >Tell Us Your Story</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section-->
-<!-- Content Start -->
-<!--section id="testimonial">
-  <div class="container">
-    <div class="row">
-      <div class="section-title text-center">
-        <h2>Fun Facts About Us</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <div class="block">
-          <ul class="counter-box clearfix">
-            <li>
-              <div class="block">
-                <i class="ion-ios-chatboxes-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
-              </div>
-            </li>
-            <li>
-              <div class="block">
-                <i class="ion-ios-glasses-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
-              </div>
-            </li>
-            <li>
-              <div class="block">
-                <i class="ion-ios-compose-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
-              </div>
-            </li>
-            <li>
-              <div class="block">
-                <i class="ion-ios-timer-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
-              </div>
-            </li>
-
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="testimonial-carousel">
-          <div id="testimonial-slider" class="owl-carousel">
-            <div>
-                <img src="img/cotation.png" alt="IMG">
-                <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
-                <div class="user">
-                  <img src="img/item-img1.jpg" alt="Pepole">
-                  <p><span>Rose Ray</span> CEO-Themefisher</p>
-                </div>
-            </div>
-            <div>
-              <img src="img/cotation.png" alt="IMG">
-                <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
-                <div class="user">
-                  <img src="img/item-img1.jpg" alt="Pepole">
-                  <p><span>Rose Ray</span> CEO-Themefisher</p>
-                </div>
-            </div>
-            <div>
-              <img src="img/cotation.png" alt="IMG">
-                <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
-                <div class="user">
-                  <img src="img/item-img1.jpg" alt="Pepole">
-                  <p><span>Rose Ray</span> CEO-Themefisher</p>
-                </div>
-            </div>
-            <div>
-              <img src="img/cotation.png" alt="IMG">
-                <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
-                <div class="user">
-                  <img src="img/item-img1.jpg" alt="Pepole">
-                  <p><span>Rose Ray</span> CEO-Themefisher</p>
-                </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section-->
