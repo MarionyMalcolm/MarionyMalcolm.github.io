@@ -18,97 +18,62 @@ permalink: /contact/
 </section>
 <!-- contact form start -->
 <section id="contact-form">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <form>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Nombre">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Email">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Sujeto">
-            </div>
-          </form>
-        </div>
-      </div>
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <form>
-            <div class="form-group-2">
-              <textarea class="form-control" rows="3" placeholder="Tu mensaje"></textarea>
-            </div>
-            <button class="btn btn-default" type="submit">Mandar!</button>
-          </form>
-        </div>
-      </div>
-    </div>
-    <!--div id="contact-box" class="row">
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <h2>Stop By For A visit</h2>
-          <ul class="address-block">
-            <li>
-              <i class="fa fa-map-marker"></i>North Main Street,Brooklyn Australia
-            </li>
-            <li>
-              <i class="fa fa-envelope-o"></i>Email: contact@mail.com
-            </li>
-            <li>
-              <i class="fa fa-phone"></i>Phone:+88 01672 506 744
-            </li>
-          </ul>
+	<div class="container">
+		<div class="row">
+			
+	
+			<!-- START HERE -->
+			<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+			<!-- Style The Contact Form How Ever You Prefer -->
+			<link rel="stylesheet" href="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/style.css">
 
-          <ul class="social-icons">
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-google"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-linkedin"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-pinterest"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-dribbble"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-behance"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-twitter"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-facebook"></i></a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <h2>We Also Count In Google Map</h2>
-            <div class="google-map">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.472979439986!2d-73.97769068489596!3d40.7516207793276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2590247c56379%3A0x15e13bea38b43e18!2sChrysler+Building!5e0!3m2!1sen!2sus!4v1477406538220" width="555" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
-        </div>
-      </div>
-    </div-->
-  </div>
+			<form id="gform" method="POST" class="pure-form pure-form-stacked"
+			action="https://script.google.com/macros/s/AKfycbzmotw_Vdb-Vq0-1bI26uPu_tJin9w9Br-9Dat1p_8bHMHAD6E/exec">
+			<!-- change the form action to your script url -->
+
+			<fieldset class="pure-group">
+			  <label for="name">Nombre: </label>
+			  <input id="name" name="name" placeholder="Tu nombre" />
+			</fieldset>
+
+			<fieldset class="pure-group">
+			  <label for="message">Mensaje: </label>
+			  <textarea id="message" name="message" rows="10"
+			  placeholder="a escribir..."></textarea>
+			</fieldset>
+
+			<fieldset class="pure-group">
+			  <label for="email"><em>Tu</em> Correo:</label>
+			  <input id="email" name="email" type="email" value=""
+			   placeholder="your.name@email.com"/>
+			  <span id="email-invalid" style="display:none">
+				hey! eso no es un email.. ya te vi tramposo</span>
+			</fieldset>
+
+	
+			<button class="button-success pure-button button-xlarge" style="background: #339966;">
+			  <i class="fa fa-paper-plane"></i>&nbsp;A los internets</button>
+
+			</form>
+
+			<!-- Customise the Thankyou Message People See when they submit the form: -->
+			<div style="display:none;" id="thankyou_message">
+			<h2><em>Gracias</em> por tu mensaje!
+			 Ahora si que va a ser más fácil pedalear!</h2>
+			</div>
+
+			<!-- Submit the Form to Google Using "AJAX" -->
+			<script data-cfasync="false" type="text/javascript"
+			src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
+			<!-- <script data-cfasync="false" type="text/javascript"
+			src="/form-submission-handler.js"></script> -->
+			<!-- END -->			
+			
+			
+		</div>
+		
+
+	</div>
 </section>
-<!-- Call to action Start -->
-<!--section id="call-to-action">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h2>We design delightful digital experiences.</h2>
-          <p>Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.</p>
-          <a class="btn btn-default btn-call-to-action" href="#" >Tell Us Your Story</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section-->
+
