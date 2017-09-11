@@ -1,49 +1,49 @@
 ---
 layout: post
-title: Bolivia
-subtitle: Camino al grán salar de Uyuni
+title: El grán salar de Uyuni
+subtitle: El grán salar de Uyuni
 ---
+
+
+![video salar]()
+
 
 ## El grán salar de Uyuni
 
-Saliendo de San Juan con un buen desayuno en el hotel, nos sentimos con las suficientes energìas para hacer un poco mas de pedaleo que lo planeado. Nuestro destino...el borde del gran salar de Uyuni.
-
-El camino inicio bien. Una buena ruta de tierra con algunos jeeps que pasaban de vez en cuando. La mayoria baja la velocidad para evitar que las las piedras que arrojan nos peguen. Todo con un simpatico "bip bip" al pasar reconociendo nuestro esfuerzo. 
+Saliendo de San Juan, el camino inicio bien. Una buena ruta de tierra con algunos jeeps que pasaban de vez en cuando. La mayoria baja la velocidad para evitar que las piedras que arrojan nos peguen. Todo con un simpatico "bip bip" al pasar reconociendo nuestro esfuerzo. 
 
 ![alguna foto del camino]()
 
-Nuestro objetivo era Colcha-K pero viendo como avanzaba el día decidimos ganar tiempo y llegar al borde del salar. Al fin terminamos empujando las bicicletas por la arena y en la tarde un fuerte viento de frente nos obligó a detenernos en un pueblito a unos 10Km del salar.
+Nuestro objetivo inicial era llegar al pueblo de Colcha-K pero viendo como avanzaba el día decidimos ganar tiempo y llegar al borde del salar de Uyuni. Al fin de cuentas, terminamos empujando las bicicletas por la arena y en la tarde un fuerte viento de frente nos obligó a detenernos en un pueblito a unos 10Km del salar. 
 
-Mal no nos fué. Fuera de estar agotados nos quedamos en un lindo hostal rústico hecho de sal. Las paredes, las mesas, los bancos, e incluso las camas, todos hechos de sal. Aprovechamos este hostal para finalmente limpiar y engrasar las bicicletas antes de atacar el salar.
+La verdad es que en la planeación del viaje habíamos previsto temporada seca y de lluvia, pero lo que no, fue temporada de viento. Aprendimos que todo agosto y parte de septiembre es temporada de viento. Es decir que todo los dias en la tarde hay vientos muy fuertes que según donde uno está, pues ya no puede pedalear...
+
+Pero bueno, fuera de estar agotados nos quedamos en un lindo hostal rústico hecho de sal. Las paredes, las mesas, los bancos, e incluso las camas, todos hechos de sal. Aprovechamos este hostal para finalmente limpiar y engrasar las bicicletas antes de atacar el salar.
 
 ![alguna foto del hotel]()
 
 Al día siguiente un desayuno rápido y en camino! 
 
-La entrada del salar se hace por el Puerto Chuvica porque entre el salar y la ruta hay como 2km de arena la cual se atraviesa por un puente. En Chuvica hay tiendita y puesto de empanadas. En eso pasa un auto que quien sabe como aùn sigue funcionando. En el techo un panel solar conectado a la bateria y el hombre del peaje, dandose cuenta que yo veía el auto con asombro, me dice -es un auto electrico- y luego de unas risas su amigo agrega -aquí en Bolivia las cosas no se cambian, se usan hasta que no sirven màs y luego... se arreglan.
+La entrada del salar se hace por un terraplen en el Puerto Chuvica porque entre el salar y la ruta hay como 2km de barro. En Chuvica aprovechamos de la tiendita y del puesto de empanadas. Al fín entramos en el salar : un lugar mágico. Uno se siente una hormiga en el medio del desierto. La sal parece hielo muy congelado. Por el viento del día anterior preferimos no dormir en el salar sino alcanzar la pequeña isla de Incahuasi. Ahí prestan un refugio a los viajeros en bicicleta o a pie. Llegamos justo a tiempo a la isla para disfrutar nuestras empanadas de almuerzo!
 
-Al fín entramos en el salar. Un lugar mágico. La sal parece hielo muy congelado. Queriamos dormir en el salar, pero el viento del día anterior nos hizo pensar 2 veces en intentar montar la carpa sin poder estacarla (la unica manera de clavar una estaca en la sal es con un taladro). Entonses nuestro objetivo era la pequeña isla de Incahuasi. Entrando en el salar la isla no es visible. Devemos guiarnos mediante el GPS y las trasas que dejan las 4x4 creando una especie de camino a seguir. Luego de varios kilometros de pedaleo la isla aparece y poco a poco va acercandose hasta que al fin, como un oasis en el desierto, llegamos justo a tiempo para disfrutar nuestras empanadas de almuerzo!
+![foto del salar]()
 
 ![foto de comiendo empanadas]()
 
-La isla esta bien mantenida y es muy bonita ahi nos ofrecieron quedarnos en un refujio que se reserva solo para viajeros en bicicleta y nos invitaron a leer y escribir algo en el libro de ciclistas que pasan por allí.
-
 ![vista desde la isla]()
 
-A la noche en la isla todos los turistas se van y quedan solo los trabajadores que sin tele, radio o internet, deben conbatir el aburrimiento con un maso de cartas. Terminamos nuestro día con una partida de carioca con 2 trabajadores de la isla. 
+Al final de tarde todos los turistas se van, se vuelve la isla muy tranquila, silenciosa con una atmosfera fuera del tiempo, y de repente empieza el atardecer sobre el salar. Irreal! Se quedan entonces en la isla solo los trabajadores que sin tele, radio o internet, deben conbatir el aburrimiento con un maso de cartas. Terminamos nuestro día con una partida de carioca con 2 trabajadores de la isla. 
 
+![el atardecer]()
 ![el refujio]()
 
-El dia siguiente nuevamente atacamos el salar. Esta vez nuestro obtivo era más claro: el hermoso cerro Tunapa que se ve claramente desde la isla.
+El día siguiente nuevamente atacamos el salar. Esta vez nuestro objetivo era más claro: el hermoso cerro Tunapa que se ve claramente desde la isla. Despues de otros 40 km ya es hora de decirle chao al salar y volver a los caminos de tierra.
 
-![tanupa]()
-
-
-
-te atacamos el salar. Esta vez nuestro obtivo era más claro: el hermoso cerro Tunupa que se ve claramente desde la isla.
-
-![tanupa]()
+![foto salar]()
+![chao salar]()
+![Tanupa]()
 
 
 
-
+
+
