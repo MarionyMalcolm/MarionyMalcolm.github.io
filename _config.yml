@@ -21,6 +21,7 @@ url: "http://marionymalcolm.github.io" # the base hostname & protocol for your s
 baseurl: ""
 cover: "/img/ptlcover.svg"
 logo: "/img/ptllogo.svg"
+future: true
 
 # Build settings
 markdown: kramdown
