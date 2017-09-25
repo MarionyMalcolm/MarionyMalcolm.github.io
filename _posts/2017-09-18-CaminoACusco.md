@@ -125,7 +125,7 @@ Hicimos pause en la ultima laguna, con granadillas y mandarinas, antes de bajar 
 <p style="
     text-align: -webkit-center;
 "><img src="https://lh3.googleusercontent.com/if6Xx4mrbyAQieSDtQBJCesJlt-syU9xf5f5ZVpnIenoyVZRr6WZSNURz1u5iboIpkYkv3w9yTkbtwig8TSBaETDVGieC2lfWOljy9LPb9khvg7LlgtVlZ_N6l7sUyulcWcGFtdgySR2ZKKt7WwrGSvPveP9Lot4EiVFKSXvLsUAAHY4Jalr69aBZ5bhBA7ykBZyKH1p9sFjSfL-LwWNogsJ_8qrpaYmS4V102A8kBgtvGvaWZit6c5IZjgEqvjJFupT_gzFH0WPcLftXF4DSzhXIibL7PxIJg0yRaWTI-CxGzUwnEq5aWS8MBxOAn93B_0cZ2mhl3fTFoXUjsdOM8ZqcjMx-pY77a2JfOjbDXCYyFrcizCnHciVMNfVm3si4OaX_R2z7zWFab_0qjX5dp8bdpLIv6XizHo9CzBxOJk3eYvJvssRFaZw2H6O8cchcblejvjnDYvQg1le9SolSL3Wjp_U9bzR0iM5I9aESC0eCfooJfU9tyuSmo06qq_sK41pZVJUA6Au-BJSBE-_1zH1oCOrcRI8YPuMBu4G_41cE8edaNd1tnH_T7XlyMekYXpVp1uNc_-S2058tsgifPHsWE_7mMiyQYAM-Xn0yc1lZPafoMJ-I8LaFQFTxvoU_nhn1yl9KNUp3Oam5Bo22byLG5_asvHMN7tn=w400-h710-no" alt="mapa cañon" style="
-    width: 70%;
+    width: 50%;
 "></p>
 
 Desafortunadamente, ya tocó regresar a la carretera principal. Se nos hizo raro volver a trafico, buses, gente más de ciudad que de pueblo y mucha basura. Avanzamos lo que pudimos y pasamos la noche en hostal de ruta en el pueblo de Cuspiata. Cusipata no está realmente hecho para acojer a la gente digamos. El día siguiente salimos en cuanto pudimos para continuar nuestra ruta.
