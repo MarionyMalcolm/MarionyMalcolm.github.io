@@ -5,15 +5,15 @@ subtitle: Ruta a Panamá
 ---
 
 
-## Cruzando a Costa Rica
+## Uvita
 
-Blablabla
-
-![Cartagena]()
+La ciudad de Cartagena está muy bien conservada con su estilo colonial. 
 
 ![Cartagena]()
 
 ![Cartagena]()
 
-## Bahia Drake
+![Cartagena]()
 
+
+## Manuel Antonio
